@@ -1,3 +1,6 @@
+---
+permalink: /publications/
+---
 # Publications
  
  **M. Munkhoeva**, Y. Kapushev, E. Burnaev and I. Oseledets,
