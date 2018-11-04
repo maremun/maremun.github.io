@@ -1,5 +1,5 @@
 main:
     - title: 'Index'
       url: /index.md
-    - publications: 'Publications'
+    - title: 'Publications'
       url: /pub.md
