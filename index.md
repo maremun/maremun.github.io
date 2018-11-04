@@ -9,5 +9,4 @@ Publications:
 Quadrature-based features for kernel approximation, accepted as a conference
 paper (__Spotlight__) at the 32nd Annual Conference on Neural Information
 Processing Systems (NIPS 2018).
-
 [Paper](https://arxiv.org/abs/1802.03832), [Code](https://github.com/maremun/quffka)
