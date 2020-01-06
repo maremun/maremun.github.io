@@ -8,14 +8,11 @@ I am a Ph.D. student supervised by [Ivan Oseledets](https://scholar.google.com/c
 My resume is [here](cv.pdf).
 
 ## Publications
-**M. Munkhoeva**, Y. Kapushev, E. Burnaev and I. Oseledets
 
 Quadrature-based features for kernel approximation,
 Neural Information Processing Systems (NeurIPS 2018).
 [arXiv](https://arxiv.org/abs/1802.03832), [code](https://github.com/maremun/quffka).
- 
- A.Tsitsulin\*, **M. Munkhoeva**\*, D. Mottin, P. Karras, A. Bronstein, I. Oseledets, E. Muller
- 
+
 The Shape of Data: Intrinsic Distance for Data Distributions,
 International Conference on Learning Representations (ICLR 2020).
 [openreview](https://openreview.net/forum?id=HyebplHYwB&noteId=HyebplHYwB), [code](https://github.com/imd-iclr/imd).
