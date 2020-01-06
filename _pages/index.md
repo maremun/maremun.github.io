@@ -10,7 +10,7 @@ My resume is [here](cv.pdf).
 ## Publications
 
 **M. Munkhoeva**, Y. Kapushev, E. Burnaev and I. Oseledets<br>
-Quadrature-based features for kernel approximation,<br>
+Quadrature-based Features for Kernel Approximation,<br>
 Neural Information Processing Systems (NeurIPS 2018).<br>
 [arXiv](https://arxiv.org/abs/1802.03832), [code](https://github.com/maremun/quffka).
 
