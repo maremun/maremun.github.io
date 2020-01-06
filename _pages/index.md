@@ -9,10 +9,12 @@ My resume is [here](cv.pdf).
 
 ## Publications
 
-Quadrature-based features for kernel approximation,
-Neural Information Processing Systems (NeurIPS 2018).
+**M. Munkhoeva**, Y. Kapushev, E. Burnaev and I. Oseledets<br>
+Quadrature-based features for kernel approximation,<br>
+Neural Information Processing Systems (NeurIPS 2018).<br>
 [arXiv](https://arxiv.org/abs/1802.03832), [code](https://github.com/maremun/quffka).
 
-The Shape of Data: Intrinsic Distance for Data Distributions,
-International Conference on Learning Representations (ICLR 2020).
+ A.Tsitsulin\*, **M. Munkhoeva**\*, D. Mottin, P. Karras, A. Bronstein, I. Oseledets, E. Muller<br>
+The Shape of Data: Intrinsic Distance for Data Distributions,<br>
+International Conference on Learning Representations (ICLR 2020).<br>
 [openreview](https://openreview.net/forum?id=HyebplHYwB&noteId=HyebplHYwB), [code](https://github.com/imd-iclr/imd).
