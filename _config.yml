@@ -36,8 +36,8 @@ include: ["_pages"]
 author:
   name: "Marina Munkhoeva"
   avatar: "mm.jpg"
-  bio: "Ph.D. student at Skoltech"
-  location: "Moscow, Russia"
+  bio: "Postdoctoral Researcher at Empirical Inference department, Max Planck Institute for Intelligent Systems"
+  location: "T&uuml;bingen, Germany"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
