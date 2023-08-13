@@ -6,7 +6,7 @@ permalink: /
 Hi! I am a postdoctoral researcher at Empirical Inference department of Max Planck Institute for Intelligent Systems. My research interests are in self-supervised learning methods and interpretable representation learning.
 I did my Ph.D. at [Skoltech](https:\\www.skoltech.ru) under the supervision of [Ivan Oseledets](https://scholar.google.com/citations?user=5kMqBQEAAAAJ&hl=en), during that time I was working on Numerical Linear Algebra methods for better approximation in learning and inference broadly across machine learning.
 
-My resume is [here](cv.pdf).
+My resume is [here](cv-gh-pages.pdf). Feel free to reach out via e-mail: `maremun at gmail dot com`.
 
 ## Selected Publications
 
